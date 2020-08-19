@@ -11,6 +11,6 @@ def add_slug_to_idea(sender, instance, *args, **kwargs):
     if instance and not instance.slug:
         slug = slugify(instance.content)
         random_string = generate_random_string()
-        instance.slug = slug + " - " + random_string
+        instance.slug = slug + "-" + random_string
 
 

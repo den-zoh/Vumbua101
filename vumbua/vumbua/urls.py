@@ -25,6 +25,7 @@ urlpatterns = [
     path('accounts/', include('django_registration.backends.one_step.urls')),
     path('accounts/', include('django.contrib.auth.urls')),
     path('api/', include("users.api.urls")),
+    path('api/', include("ideas.api.urls")),
     path('api-auth/', include("rest_framework.urls")),  # login via browsable api
     path('api-auth/rest-auth/', include("rest_auth.urls")),  # login via rest
     path('rest-auth/registration/', include("rest_auth.registration.urls")),  # registration via rest

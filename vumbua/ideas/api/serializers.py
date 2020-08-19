@@ -10,7 +10,7 @@ class CommentsSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Comments
-        exclude = ['ideas', 'voters', 'updated_at']
+        exclude = ['idea', 'voters', 'updated_at']
 
     def get_created_at(self, instance):
         return instance.created_at.strftime("%d %B %Y")
@@ -20,7 +20,7 @@ class CommentsSerializer(serializers.ModelSerializer):
 
     def get_user_has_voted(self, instance):
         request = self.context.get("request")
-        return instance.voters.filter(pk=request.user.pk).exist()
+        return instance.voters.filter(pk=request.user.pk).exists()
 
 
 class IdeasSerializer(serializers.ModelSerializer):
@@ -42,4 +42,4 @@ class IdeasSerializer(serializers.ModelSerializer):
 
     def get_user_has_commented(self, instance):
         request = self.context.get("request")
-        return instance.comments.filter(author=request.user).exist()
+        return instance.comments.filter(author=request.user).exists()

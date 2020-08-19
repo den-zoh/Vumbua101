@@ -4,8 +4,21 @@
     <meta charset="UTF-8">
     <title>Vumbua</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
     <style>
+        html, body{
+            height: 100%;
+            font-family: "Gill Sans MT", serif;
+        }
+        .auth-box{
+            border: 1px solid lightgrey;
+            border-radius: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            width: 600px;
+            margin: auto;
+        }
+
         .login-form-container{
             width: 300px;
             margin: auto;
@@ -14,12 +27,18 @@
             width: 400px;
             margin: auto;
         }
+        .outer-area{
+            margin-top: 100px;
+        }
     </style>
 </head>
 <body>
-    <div class="auth-box text-center">
+    <div class="outer-area">
+        <div class="auth-box text-center">
         {% block content %}
         {% endblock %}
     </div>
+    </div>
+
 </body>
 </html>

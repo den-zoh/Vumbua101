@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b151ed3-c61c-4e18-8cf1-f17ff07f6589" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vumbua.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vumbua.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Badge.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Dropdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Modal.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Pagination.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Parallax.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Slider.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Tabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/cards/LoginCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/cards/NavTabsCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/globalComponents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/globalDirectives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/globalMixins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/material-kit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/vuetify.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideas/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideas/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/auth_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/auth_layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/django_registration/registration_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/django_registration/registration_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vumbua/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/vumbua/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vumbua/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/vumbua/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/webpack-stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/webpack-stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +40,15 @@
       <list>
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/frontend/package.json" />
   </component>
   <component name="ProjectId" id="1gHI45Clo3O04DIXmLItq9ME3Px" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,8 +56,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src\components" />
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src" />
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597764896188</updated>
       <workItem from="1597764909271" duration="10109000" />
-      <workItem from="1597826076170" duration="12565000" />
+      <workItem from="1597826076170" duration="21512000" />
     </task>
     <servers />
   </component>

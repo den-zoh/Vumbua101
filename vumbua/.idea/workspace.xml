@@ -2,29 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b151ed3-c61c-4e18-8cf1-f17ff07f6589" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Badge.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Dropdown.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Modal.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Pagination.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Parallax.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Slider.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Tabs.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/cards/LoginCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/cards/NavTabsCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/globalComponents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/globalDirectives.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/globalMixins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/material-kit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/plugins/vuetify.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Badge.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Dropdown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Modal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Pagination.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Parallax.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Slider.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/Tabs.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/cards/LoginCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/cards/NavTabsCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/plugins/globalComponents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/plugins/globalDirectives.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/plugins/globalMixins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/plugins/material-kit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/plugins/vuetify.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/webpack-stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/webpack-stats.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597764896188</updated>
       <workItem from="1597764909271" duration="10109000" />
-      <workItem from="1597826076170" duration="21512000" />
+      <workItem from="1597826076170" duration="22771000" />
     </task>
     <servers />
   </component>

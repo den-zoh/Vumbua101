@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b151ed3-c61c-4e18-8cf1-f17ff07f6589" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vumbua.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vumbua.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideas/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideas/signals.py" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/signals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/auth_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/auth_layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/django_registration/registration_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/django_registration/registration_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vumbua/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/vumbua/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vumbua/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/vumbua/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +34,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597764896188</updated>
       <workItem from="1597764909271" duration="10109000" />
-      <workItem from="1597826076170" duration="12565000" />
+      <workItem from="1597826076170" duration="15944000" />
     </task>
     <servers />
   </component>

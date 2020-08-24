@@ -19,7 +19,19 @@
       <change beforePath="$PROJECT_DIR$/frontend/src/plugins/globalMixins.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/plugins/material-kit.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/plugins/vuetify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/denni.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/denni.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/views/Login.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/webpack-stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/webpack-stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +47,8 @@
       <list>
         <option value="HTML File" />
         <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="Vue Single File Component" />
       </list>
     </option>
@@ -46,26 +60,34 @@
     <dismissed value="$PROJECT_DIR$/frontend/package.json" />
   </component>
   <component name="ProjectId" id="1gHI45Clo3O04DIXmLItq9ME3Px" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend/src/views" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src\views" />
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src\assets" />
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src\components" />
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\public" />
+      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src\assets\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src\components" />
-      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua\frontend\src" />
-      <recent name="C:\Users\denni\Documents\vumbs\Vumbua101\vumbua" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -87,6 +109,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="vumbua.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -117,6 +140,8 @@
       <updated>1597764896188</updated>
       <workItem from="1597764909271" duration="10109000" />
       <workItem from="1597826076170" duration="22771000" />
+      <workItem from="1597826076170" duration="22316000" />
+      <workItem from="1598261535723" duration="12260000" />
     </task>
     <servers />
   </component>
@@ -128,7 +153,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -2,6 +2,13 @@
   <dictionary name="denni">
     <words>
       <w>browsable</w>
+      <w>dropup</w>
+      <w>googleapis</w>
+      <w>jsdelivr</w>
+      <w>lazyload</w>
+      <w>materialdesignicons</w>
+      <w>navbar</w>
+      <w>vuelidate</w>
       <w>vumbua</w>
     </words>
   </dictionary>
